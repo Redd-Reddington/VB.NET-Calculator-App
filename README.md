@@ -34,4 +34,4 @@ This project is open-source under the MIT License. Feel free to use, modify, and
 
 ---
 
-Made with ❤️ by Redd
+Made with ❤️ by **Redd✍️🔴**
