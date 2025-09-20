@@ -1,0 +1,16 @@
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.exe
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.deps.json
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.runtimeconfig.json
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.dll
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.pdb
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.Form1.resources
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.vbproj.GenerateResource.cache
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfo.vb
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.vbproj.CoreCompileInputs.cache
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.dll
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\refint\CalculatorApp.dll
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.pdb
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.genruntimeconfig.cache
+C:\Users\yduos\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\ref\CalculatorApp.dll
